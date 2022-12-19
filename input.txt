@@ -1,0 +1,90 @@
+#shamil include.h
+
+blank showMe<>[
+        number tt$
+        tt ~ 33$
+        display[tt]$
+    ]
+
+number main <> [
+    number a,bb,c, d, aA, bB$
+    a ~ 4$
+    bb ~ 2$
+    
+    d ~ a plus bb$
+    display[d]$
+
+    d ~ a minus bb$
+    display[d]$
+    
+    d ~ a mult bb$
+    display[d]$
+
+    d ~ a div bb$
+    display[d]$
+
+    d ~ a mod bb$
+    display[d]$
+
+    d ~ d incr$
+    display[d]$
+
+    d ~ d decr$
+    display[d]$
+
+    c ~ bb mult a minus 3$
+    display[c]$
+
+    //if else\\
+
+    condition < 10 ~~ 10 > [
+        1 plus 2 div 3$
+    ]
+    ifnot_cond < a ~~ 2 > [
+        3 minus 3$
+    ]
+    ifnot [
+        10 mod 3$
+    ]
+
+    ssin<45>$
+
+    log<5>$
+
+    ln<10>$
+
+    bb pow a$
+
+    root<49>$    
+
+    factorial<5>$
+
+    jabki< a << bb > [
+        condition< 1<<2 >[
+            display["This is inside while if-else block"]$
+        ]
+        ifnot[
+            200 minus 2$
+        ]
+    ]
+
+    jab<a ~ 1| a <~3 | a plus 1>[
+        display["This is inside For loop"]$   
+    ]
+
+    //Switch case implement\\
+
+    change<2> [
+        occassion 1:
+            1 plus 2$
+            getout$
+        occassion 2: 
+            3 mult 3$
+            getout$
+        default:
+            4 div 2$
+        
+    ]
+
+    
+]

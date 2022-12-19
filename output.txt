@@ -1,0 +1,125 @@
+
+Variable declared
+
+Print expression 33
+
+
+User defined function declared
+
+
+
+Variable declared
+
+Addition of 4+2 = 6 
+
+Print expression 6
+
+Minus of 4-2 = 2 
+
+Print expression 2
+
+Multiplication of 4*2 = 8 
+
+Print expression 8
+
+Division of 4/2 = 2
+
+Print expression 2
+
+Modulus of 4 % 2 = 0
+
+Print expression 0
+
+Print expression 1
+
+Print expression 0
+
+Multiplication of 2*4 = 8 
+
+Minus of 8-3 = 5 
+
+Print expression 5
+
+
+This is a comment
+
+Equal: 10==10
+
+Division of 2/3 = 0
+
+Addition of 1+0 = 1 
+
+Value of expression: 1
+
+Equal: 4==2
+
+Minus of 3-3 = 0 
+
+Value of expression: 0
+
+Modulus of 10 % 3 = 1
+
+Value of expression: 1
+
+In If condition
+
+
+The value of Sin(45) is: 0.71 
+Value of expression: 0
+Value of Log(5) is 0.698970
+
+Value of expression: 0
+Value of ln(10) is 2.302585
+
+Value of expression: 2
+
+Power of: 2^4 is: 16
+Value of expression: 16
+
+
+Square root of the value = 7.000000
+
+Value of expression: 7
+
+
+Factorial of 5 is 120
+
+Value of expression: 120
+
+Smaller than: 4<2
+
+Smaller than: 1<2
+
+String is:  This is inside while if-else block
+
+Minus of 200-2 = 198 
+
+Value of expression: 198
+
+In If condition
+
+
+String is:  This is inside For loop
+
+Expression value : 1
+
+Expression value : 2
+
+Expression value : 3
+
+
+This is a comment
+
+Addition of 1+2 = 3 
+
+Multiplication of 3*3 = 9 
+
+Matched for Case: 2
+
+Division of 4/2 = 2
+
+Switch case is declared
+
+
+Main function END
+Header file added
